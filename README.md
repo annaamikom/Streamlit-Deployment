@@ -1,11 +1,11 @@
 # Streamlit-Deployment
-# 🌸 Iris Flower Prediction App
+#  Iris Flower Prediction App
 
 Aplikasi web sederhana untuk memprediksi jenis bunga **Iris** menggunakan **machine learning** dan framework **Streamlit**.
 
 ---
 
-## 📌 Fitur Aplikasi
+##  Fitur Aplikasi
 
 - Antarmuka pengguna interaktif dengan Streamlit
 - Input fitur bunga (sepal/petal) secara manual
@@ -14,7 +14,7 @@ Aplikasi web sederhana untuk memprediksi jenis bunga **Iris** menggunakan **mach
 
 ---
 
-## 📁 Struktur Folder
+##  Struktur Folder
 
 iris_app/
 ├── app.py # Aplikasi Streamlit

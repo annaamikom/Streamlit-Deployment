@@ -15,10 +15,10 @@ Aplikasi web sederhana untuk memprediksi jenis bunga **Iris** menggunakan **mach
 ---
 
 ##  Struktur Folder
-
-iris_app/
-├── app.py # Aplikasi Streamlit
-├── model/
-│ └── model_numpy.pkl # Model Machine Learning hasil training
-├── requirements.txt # Daftar dependensi
-└── README.md # Dokumentasi ini
+<br>
+iris_app/<br>
+├── app.py # Aplikasi Streamlit<br>
+├── model/<br>
+│ └── model_numpy.pkl # Model Machine Learning hasil training<br>
+├── requirements.txt # Daftar dependensi<br>
+└── README.md # Dokumentasi ini<br>

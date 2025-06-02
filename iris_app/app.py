@@ -2,7 +2,7 @@
 import streamlit as st
 import numpy as np
 import joblib
-
+import os
 # Load model
 model_path = os.path.join(os.path.dirname(__file__), "model/model_numpy.pkl")
 model = joblib.load(model_path)
